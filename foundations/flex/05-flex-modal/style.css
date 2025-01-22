@@ -21,14 +21,8 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   display: flex;
-  padding: 16px;
   gap: 16px;
-}
-
-.container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 14px;
+  padding: 16px;
 }
 
 .header {
